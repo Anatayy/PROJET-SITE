@@ -2,6 +2,7 @@ body{
     background: rgb(2,0,36);
     height: 100%;
     width: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
     
 }
 
@@ -16,6 +17,8 @@ nav{
     height:70px;
     display:flex;
     justify-content:center;
+    top:0px;
+    left:0px;
     
 }
 
@@ -35,4 +38,9 @@ nav a{
     position:absolute;
     left:5%;
     margin-right:20%;
+}
+
+#histoire p{
+    margin-top:7%;
+    width:60%;
 }
