@@ -11,25 +11,25 @@ body{
 }
 
 
-main #image {
-    margin: auto;
-    margin: 20px;
+main #lejeu {
+    margin: 100px;
     display: flex;
     justify-content: center;
 
 }
-main #image img{
+main #lejeu img{
     border: solid 1px white;
-    
 }
 
-main #téléchargement {
+main #télécharger {
     width: 100%;
     padding: 20px;
 }
 
-main #téléchargement p{
+main #télécharger p{
     text-align: justify;
     width: 40%;
+}
+main #télécharger button{
 
 }
