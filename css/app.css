@@ -29,7 +29,21 @@ main #télécharger {
 main #télécharger p{
     text-align: justify;
     width: 40%;
+    float: left;
 }
 main #télécharger button{
-
+    float : left;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 5px;
+    border: solid black 2px;
+    cursor: pointer;
+    width: 100px;
+    height: 50px;
+    margin: 55px 21%;
+    
+}
+main #télécharger button:hover{
+    text-decoration: underline;
+    box-shadow: 0px 4px 4px black;
 }
