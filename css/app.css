@@ -7,3 +7,16 @@ body{
 *{
     box-sizing:border-box;
 }
+
+
+main div {
+    margin: auto;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+main div img{
+    border: solid 1px white;
+    
+}
