@@ -14,16 +14,23 @@ body{
 main #lejeu {
     display: flex;
     justify-content: center;
+    margin-top:150px;
+}
+
+#elementfloat{
+    display:block;
+    width:100%;
 }
 
 #lejeu p{
     width:40%;
-    float:right;
+    float:left;
     margin-left:5%;
 }
 
 main #lejeu img{
     border: solid 1px white;
+    float:left;
 }
 
 
@@ -58,14 +65,20 @@ p{
 
 nav{
     width:100%;
-    position:fixed;
     background-color:rgba(211,211,211,1);
     height:70px;
     display:flex;
     justify-content:center;
+    left:0px;  
+}
+
+#navheader{
     top:0px;
-    left:0px;
-    
+    position:fixed;
+}
+
+#navfooter{
+    margin-top:15%;
 }
 
 
@@ -85,6 +98,10 @@ nav a:hover{
     text-decoration-style: dotted;
 }
 
+#navfooter a{
+    font-size:19px;
+}
+
 #deeplogonav{
     position:absolute;
     left:5%;
@@ -95,7 +112,7 @@ nav a:hover{
     width:60%;
 }
 
-main div{
+main>div{
     width:80%;
     margin-left:10%;
 }
@@ -107,9 +124,9 @@ h1{
     font-size:22px;
     margin-bottom:3%;
     margin-top:5%;
+    display:block;
     
 }
-
 
 #sidebar ul{
     list-style-type: none;
@@ -121,4 +138,5 @@ h1{
     bottom: 0;
     height: 70%;
     width: 15%;
+    
 }
