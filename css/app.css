@@ -37,9 +37,10 @@ main #télécharger p{
     width: 40%;
     float: left;
 }
-main #télécharger button{
+main #telecharger button{
     float : left;
     font-weight: bold;
+    font-size: 11pt;
     background-color: white;
     border-radius: 5px;
     border: solid black 2px;
@@ -49,9 +50,11 @@ main #télécharger button{
     margin: 55px 21%;
     
 }
-main #télécharger button:hover{
+main #telecharger button:hover{
     text-decoration: underline;
     box-shadow: 0px 4px 4px black;
+    background-color: rgba(182, 194, 255, 0.288);
+    color: white;
 }
 p{
     color:white;
