@@ -14,16 +14,23 @@ body{
 main #lejeu {
     display: flex;
     justify-content: center;
+    margin-top:150px;
+}
+
+#elementfloat{
+    display:block;
+    width:100%;
 }
 
 #lejeu p{
     width:40%;
-    float:right;
+    float:left;
     margin-left:5%;
 }
 
 main #lejeu img{
     border: solid 1px white;
+    float:left;
 }
 
 
@@ -95,7 +102,7 @@ nav a:hover{
     width:60%;
 }
 
-main div{
+main>div{
     width:80%;
     margin-left:10%;
 }
@@ -107,5 +114,5 @@ h1{
     font-size:22px;
     margin-bottom:3%;
     margin-top:5%;
-    
+    display:block;
 }
