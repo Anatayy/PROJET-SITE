@@ -15,8 +15,14 @@ main #lejeu {
     margin: 100px;
     display: flex;
     justify-content: center;
-
 }
+
+#lejeu p{
+    width:40%;
+    float:right;
+    margin-left:5%;
+}
+
 main #lejeu img{
     border: solid 1px white;
 }
