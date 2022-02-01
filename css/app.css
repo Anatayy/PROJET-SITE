@@ -149,7 +149,7 @@ h1{
 }
 #sidebar form #text{
    width: 90%;
-   margin: auto;
+   margin: 10px;
 }
 
 #sidebar form input{
@@ -169,7 +169,7 @@ h1{
     color: white;
 }
 #sidebar div p{
-    font-size: 8pt;
+    font-size: 12pt;
     list-style-type: none;
     width: 80%;
     margin: 0;
