@@ -101,3 +101,9 @@ nav a{
     width:80%;
     margin:auto;
 }
+
+h1{
+    text-transform:uppercase;
+    text-decoration: underline solid 3px white;
+    color:#e9e9e9;
+}
