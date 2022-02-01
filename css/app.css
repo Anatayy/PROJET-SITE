@@ -55,7 +55,7 @@ p{
 nav{
     width:100%;
     position:fixed;
-    background-color:rgba(255,255,255,0.6);
+    background-color:rgba(211,211,211,1);
     height:70px;
     display:flex;
     justify-content:center;
