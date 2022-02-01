@@ -86,6 +86,11 @@ nav a{
     text-transform: uppercase;
     margin-left:10%;
 }
+nav a:hover{
+    color: white;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
 
 #deeplogonav{
     position:absolute;
