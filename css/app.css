@@ -142,8 +142,3 @@ h1{
     width: 15%;
     
 }
-
-#vague svg{
-    transform:rotate(90deg);
-    right:0;
-}
