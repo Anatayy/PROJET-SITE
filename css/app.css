@@ -143,7 +143,31 @@ h1{
 #sidebar .new1{
     border-top: 5px dotted rgb(2,0,36);
     border-bottom: none;
+    clear: both;
 }
-#sidebar form{
-   width: 5%;
+#sidebar form #text{
+   width: 90%;
+}
+
+#sidebar form input{
+    margin-top: 5px;
+    float: right;
+    font-size: 9pt;
+}
+#sidebar .new2{
+    border-top: 5px dotted rgb(2,0,36);
+    border-bottom: none;
+    clear: both;
+    margin-top: 55%;
+}
+
+#sidebar h4{
+    text-decoration: underline;
+    color: white;
+}
+#sidebar ul{
+    font-size: 10pt;
+    list-style-type: none;
+    width: 80%;
+    margin: 0;
 }
