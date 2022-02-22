@@ -187,3 +187,29 @@ main #telecharger button:hover{
     width: 80%;
     margin: 0;
 }
+
+
+
+/* ======== PAGE CONCEPT ======== */
+
+/* ====== PARTIE NAV ====== */
+
+#gallery{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+#gallery>div{
+    display:flex;
+    flex-direction:column;
+    width:33%;
+    justify-content:center;
+}
+
+#gallery>div>img{
+    width:100%;
+    padding-bottom:3%;
+}
+
