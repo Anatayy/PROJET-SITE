@@ -200,6 +200,8 @@ main #telecharger button:hover{
 
 /* ====== PARTIE NAV ====== */
 
+
+
 #gallery{
     display:flex;
     flex-direction:row;
@@ -207,6 +209,7 @@ main #telecharger button:hover{
     justify-content:center;
     width:70%;
     margin:auto;
+    margin-top:10%;
 }
 
 #gallery>div{
@@ -226,6 +229,7 @@ main #telecharger button:hover{
 @media (max-width: 1000px){
     #gallery{
         flex-direction:column;
+        margin-top:18%;
     }
     #gallery>div{
         width:100%;
