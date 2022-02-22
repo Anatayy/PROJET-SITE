@@ -223,3 +223,11 @@ main #telecharger button:hover{
     padding-bottom:3%;
 }
 
+@media (max-width: 1000px){
+    #gallery{
+        flex-direction:column;
+    }
+    #gallery>div{
+        width:100%;
+    }
+ }
