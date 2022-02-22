@@ -199,15 +199,19 @@ main #telecharger button:hover{
     flex-direction:row;
     flex-wrap:wrap;
     justify-content:center;
+    width:70%;
+    margin:auto;
 }
 
 #gallery>div{
     display:flex;
     flex-direction:column;
-    width:33%;
-    justify-content:center;
+    width:30%;
 }
 
+#colonne2,#colonne3{
+    margin-left:2%;
+}
 #gallery>div>img{
     width:100%;
     padding-bottom:3%;
