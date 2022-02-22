@@ -4,7 +4,7 @@ Tom Robert & Raphaëlle Artaud
 Nous avons réalisé le site d'un jeu vidéo créé lors de notre de cours de PAO (Publication assistée par ordinateur).
 Notre jeu vidéo avait pour mots-clés peur/profondeur/eau.
 
-Voici l'URL de notre projet GitHub : 
+Voici l'URL de notre projet GitHub : https://github.com/Anatayy/PROJET-SITE.git
 
 Le site contient une vidéo promotionnelle du jeu (ici une vidéo youtube), une galerie d'images, une zone de recherche dans le site, un lien de téléchargement. 
 
