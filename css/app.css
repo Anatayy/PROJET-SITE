@@ -173,4 +173,11 @@ h1{
     list-style-type: none;
     width: 80%;
     margin: 0;
+}
 
+@media (max-width: 1000px){
+   #sidebar div p{
+    font-size: 8.5pt;
+   }
+}
+    
